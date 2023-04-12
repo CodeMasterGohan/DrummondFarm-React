@@ -1,0 +1,2 @@
+C:\Users\Russell\Documents\GitHub\TypeScriptReactJS\obj\Debug\typescriptreactjs.esproj.SuggestedBindingRedirects.cache
+C:\Users\Russell\Documents\GitHub\TypeScriptReactJS\obj\Debug\typescriptreactjs.esproj.CoreCompileInputs.cache
